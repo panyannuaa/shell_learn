@@ -1,0 +1,4 @@
+yf.face IN A 192.168.1.11
+mleg.face IN A 192.168.1.12
+dymtg.face IN A 192.168.1.13
+vccdown IN A 218.75.141.157

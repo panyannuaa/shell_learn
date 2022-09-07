@@ -1,0 +1,7 @@
+job salary
+c++ 13
+java 14
+php 12
+java 14
+php 12
+c++ 13

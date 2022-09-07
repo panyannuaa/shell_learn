@@ -1,0 +1,4 @@
+Sat 30 Jul 2022 06:12:54 AM PDT
+92K ./kk 280K .
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+tail -n 10 /var/log/syslog
